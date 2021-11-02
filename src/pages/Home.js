@@ -14,7 +14,7 @@ function Home() {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12 text-center">
-                            <h3>Welcombndndgndhfndfhh to the website</h3>
+                            <h3>Welcome to the website</h3>
                             <hr />
                             <Link to="/about"  className="btn btn-warning shadow">Read More</Link>  
                         </div>
