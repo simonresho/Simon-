@@ -8,11 +8,12 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">
-                        <h6>Company Information</h6>
+                        <h6>Organization Info</h6>
                         <hr/>
                         <p className="text-white">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                         Lebanon, Beirut saint-charbel center
                         </p>
+                        <a href="http://horizonsinternational.org/">link to Org.</a>
                     </div>
                     <div className="col-md-4">
                         <h6>Quick Links</h6>

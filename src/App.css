@@ -65,16 +65,17 @@ p{
 
 
 .first {
-  height: 540px;
-  width: 1350px;
+  width: 100%;
+  height: 87vh;
 }
+
 .second {
-  height: 540px;
-  width: 1350px;
+  width: 100%;
+  height: 87vh;
 }
 .third{
-  height: 540px;
-  width: 1350px;
+  width: 100%;
+  height: 87vh;
 }
 
 .siko {

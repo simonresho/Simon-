@@ -10,7 +10,7 @@ function Vmc() {
                 <div className="container">
                 <section className="section bg-c-light border-bottom">
                 <div className="container">
-                    <h5 className="main-heading">Our Company</h5>
+                    <h5 className="main-heading">Our Organization</h5>
                     <div className="underline"></div>
                     <p>Our organization is named as Horizon International its a religious organization that supports churches through educational and training courses for young people in several fields, and I am currently training in Web Developing</p>
                 </div>
